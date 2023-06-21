@@ -38,9 +38,9 @@
 
 
 ## 使用效果展示
-在微信里回复提问者的问题
+在微信公众号里回复提问者的问题
 
-![在微信里回复提问者的问题](https://p1.mingdaoyun.cn/RiceText/e50eb66a-8e91-4bbe-979a-ca5df9cde651/6049b3586c16421510d92328/20230529/cU1H3d9tbXc20r4vfm83969Zee2BfG9Zf010aL4v36cBc1dV9S7XeMcP1W1C157v.jpg?e=1685329533&token=PGtAPYyCYxCQ1zckbL-ecATOk42z8P3jdPahEnzt:1SrK1kE4ych2dhOFvZC0s8Y8hLY=)
+![在微信公众号里回复提问者的问题](https://p1.mingdaoyun.cn/RiceText/e50eb66a-8e91-4bbe-979a-ca5df9cde651/6049b3586c16421510d92328/20230529/cU1H3d9tbXc20r4vfm83969Zee2BfG9Zf010aL4v36cBc1dV9S7XeMcP1W1C157v.jpg?e=1685329533&token=PGtAPYyCYxCQ1zckbL-ecATOk42z8P3jdPahEnzt:1SrK1kE4ych2dhOFvZC0s8Y8hLY=)
 
 
 向量问答库内容管理
